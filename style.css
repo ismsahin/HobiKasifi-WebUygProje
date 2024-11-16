@@ -144,6 +144,55 @@ footer {
     background-attachment: fixed;
     color: #333;
 }
+.hobi-kesfetmek-sayfasi {
+    background-image: url('images/hobby.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.kitap-okuma-sayfasi {
+    background-image: url('https://images.pexels.com/photos/5490059/pexels-photo-5490059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.resim-yapma {
+    background-image: url('https://images.pexels.com/photos/7031624/pexels-photo-7031624.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.doga-yuruyusu {
+    background-image: url('https://images.pexels.com/photos/19153612/pexels-photo-19153612/free-photo-of-nigde-aladaglar-da-bir-kis-vakti.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.kamp-hobisi {
+    background-image: url('https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.satranc-sayfasi {
+    background-image: url('images/chess.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
+.fotograf-cekim-hobisi {
+    background-image: url('https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+}
 .iletisim-sayfasi {
     background-image: url('images/skydiving.jpg');
     background-size: cover;
@@ -152,13 +201,7 @@ footer {
     color: #333;
 }
 
-.satranc-sayfasi {
-    background-image: url('images/chess.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    color: #333;
-}
+
 
 .container {
     display: flex;
